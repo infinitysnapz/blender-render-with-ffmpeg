@@ -4,6 +4,8 @@ Creates a PNG image sequence, then converts it to a video via FFmpeg.
 Based on https://github.com/Ulf3000/blender-render-to-ffmpeg/
 
 The aim of this extension is to implement support for exporting to novel file formats that Blender doesn't handle - i.e Cineform,
+This is mostly intended for my own usage, and support is not guaranteed
+
 It renders to intermediate .png image sequence in a temp folder and then uses FFmpeg to convert it to a desired format as defined in the extension's 'Input' box
 The script assumes that you have FFmpeg in your path variable. Untested on Linux and Mac
 
