@@ -5,7 +5,7 @@ schema_version = "1.0.0"
 id = "render_with_ffmpeg"
 version = "0.0.1"
 name = "Render with FFmpeg"
-tagline = "Creates a PNG image sequence, then convert it to a video via FFmpeg."
+tagline = "Creates a PNG image sequence, then converts it to a video via FFmpeg."
 maintainer = "infinitysnapz"
 # Supported types: "add-on", "theme"
 type = "add-on"
@@ -72,4 +72,5 @@ files = "Handle FFmpeg and convert image sequence to video"
 #   "__pycache__/",
 #   "/.git/",
 #   "/*.zip",
+
 # ]
