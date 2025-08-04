@@ -1,4 +1,4 @@
-# blender-renderwithffmpeg
+# blender-render-with-ffmpeg
 Creates a PNG image sequence, then converts it to a video via FFmpeg.
 
 Based on https://github.com/Ulf3000/blender-render-to-ffmpeg/
